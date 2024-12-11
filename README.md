@@ -40,4 +40,4 @@ The linear execution approach processes the data sequentially, whereas the paral
 The performance comparison is measured by timing the execution of both approaches using Python's time module.
 ## ✨ Results ✨
 -  [parallel.jpeg](https://github.com/AreebaAamir123/PDP_T1_A1/blob/main/parallel.jpeg)
-- `linear.jpeg`
+- [serial.jpeg](https://github.com/AreebaAamir123/PDP_T1_A1/blob/main/serial.jpeg)
