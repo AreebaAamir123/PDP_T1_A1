@@ -1,6 +1,6 @@
 # PDP_T1_A1 ASSIGNMENT
- Hi, I'm 21B-133-CS! 👋 
-## The dataset is a dummy since I couldn't find an appropriate one. `FAKE_DATASET_GENERATOR.py` is how the dataset was made.
+ Hi, ✨I'm 21B-133-CS!✨ 👋 
+## ⚠️ The dataset is a dummy since I couldn't find an appropriate one. `FAKE_DATASET_GENERATOR.py` is how the dataset was made. ⚠️ 
 ## Authors
 
 - [@AreebaAamir123](https://github.com/AreebaAamir123)
@@ -18,6 +18,7 @@ This project involves processing two CSV files: one containing student informati
    3.1 Linear Execution
    3.2 Parallel Execution (Using multiprocessing)
 4. Performance Comparison
+5. Results 
 
 ## Overview:
 The project has three main tasks:
@@ -37,3 +38,6 @@ In the parallel execution approach, the program uses Python's multiprocessing li
 ## Performance Comparison:
 The linear execution approach processes the data sequentially, whereas the parallel execution approach distributes the workload to multiple processes, which should ideally reduce execution time.
 The performance comparison is measured by timing the execution of both approaches using Python's time module.
+## ✨ Results ✨
+- `linear.jpeg`
+- `parallel.jpeg`
