@@ -1,5 +1,6 @@
 # PDP_T1_A1 ASSIGNMENT
- Hi, I'm 21B-133-CS! 👋
+ Hi, I'm 21B-133-CS! 👋 
+## The dataset is a dummy since I couldn't find an appropriate one. `FAKE_DATASET_GENERATOR.py` is how the dataset was made.
 ## Authors
 
 - [@AreebaAamir123](https://github.com/AreebaAamir123)
