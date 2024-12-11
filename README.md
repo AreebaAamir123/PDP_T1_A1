@@ -17,9 +17,8 @@ This project involves processing two CSV files: one containing student informati
 3. Code Functionality
    3.1 Linear Execution
    3.2 Parallel Execution (Using multiprocessing)
-6. Performance Comparison
-7. Running the Code
-8. Results
+4. Performance Comparison
+
 ## Overview:
 The project has three main tasks:
 ###### Data Integrity: 
