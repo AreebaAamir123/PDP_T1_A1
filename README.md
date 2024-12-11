@@ -39,6 +39,5 @@ In the parallel execution approach, the program uses Python's multiprocessing li
 The linear execution approach processes the data sequentially, whereas the parallel execution approach distributes the workload to multiple processes, which should ideally reduce execution time.
 The performance comparison is measured by timing the execution of both approaches using Python's time module.
 ## ✨ Results ✨
-- `[linear.jpeg(https://github.com/AreebaAamir123/PDP_T1_A1/blob/main/parallel.jpeg)
-  `
-- `parallel.jpeg`
+-  [parallel.jpeg](https://github.com/AreebaAamir123/PDP_T1_A1/blob/main/parallel.jpeg)
+- `linear.jpeg`
