@@ -1,4 +1,4 @@
-# PDP_T1_A1 ASSIGNMENT
+# PDC_T1_A1 ASSIGNMENT
  Hi, ✨I'm 21B-133-CS!✨ 👋 
 ## ⚠️ The dataset is a dummy since I couldn't find an appropriate one. [FAKE_DATASET_GENERATOR.py](https://github.com/AreebaAamir123/PDP_T1_A1/blob/main/FAKE_DATASET_GENERATOR.py) is how the dataset was made. ⚠️ 
 ## Authors
